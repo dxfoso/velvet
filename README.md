@@ -59,5 +59,7 @@ If you have any questions or concerns about this Privacy Policy or our data prac
 
 - Email: dxfusa@gmail.com
 - Address: Company, Germany 23224 Frankfurt worms strasse 1
-  
+
+## 10. Deleting of you Account
+please contact us at email dxfusa@gmail.com if you want to delete you account and you data completely 
 Thank you for using Velvet Leaf Company’s services!
