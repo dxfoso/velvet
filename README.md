@@ -1,6 +1,6 @@
-# Privacy Policy - Velvet Leaf Company
+# Privacy Policy - Company
 
-At Velvet Leaf Company, we value the privacy of our users. This Privacy Policy outlines the types of personal information we collect, how we use it, and the steps we take to protect your data when you use our app and website.
+At Company, we value the privacy of our users. This Privacy Policy outlines the types of personal information we collect, how we use it, and the steps we take to protect your data when you use our app and website.
 
 ## 1. Information We Collect
 
@@ -57,7 +57,7 @@ We may update this Privacy Policy from time to time. We will notify you of any s
 
 If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at:
 
-- Email: privacy@velvetleaf.com
-- Address: Velvet Leaf Company, Germany 23224 Frankfurt worms strasse 1
+- Email: dxfusa@gmail.com
+- Address: Company, Germany 23224 Frankfurt worms strasse 1
   
 Thank you for using Velvet Leaf Company’s services!
